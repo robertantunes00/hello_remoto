@@ -1,4 +1,4 @@
-# Git Git Hub
+# Git
 ### Comandos
 
 Git clone - clona os repositorios
